@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a software engineer at Albanero Dev<br>I specialize in ReactJS development and am passionate about web development<br>I have a strong foundation in web development principles and best practices<br>I am experienced in front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies and databases<br>I enjoy problem-solving and collaborating with my team to achieve project goals<br>I take pride in creating high-quality, functional, and aesthetically pleasing software applications<br>I am committed to continuous learning and self-improvement.
+I specialized in ReactJS development and am passionate about web development<br>I have a strong foundation in web development principles and best practices<br>I am experienced in front-end technologies such as HTML, CSS, and JavaScript, as well as back-end technologies and databases<br>I enjoy problem-solving and collaborating with my team to achieve project goals<br>I take pride in creating high-quality, functional, and aesthetically pleasing software applications<br>I am committed to continuous learning and self-improvement.
 
 
 ## 🌐 Socials:
